@@ -1,7 +1,9 @@
 # invaders
 A terminal game written in Rust
 
-This is the final project of an online course: Ultimate Rust Crash Course
+This is the final project of an online Rust course I took.
+
+<img width="385" alt="screenshot" src="https://github.com/yqren2005/invaders/assets/6422519/09340bac-805e-4f3d-917d-0b8f15eb9a8c">
 
 ## How to play:
 Download all the files and run: cargo run in your terminal
